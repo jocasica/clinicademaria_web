@@ -9,6 +9,6 @@ RewriteCond %{SCRIPT_FILENAME} !-f
  
 RewriteRule ^(.*)$ $1.html
 
-ErrorDocument 500 https://escienza.pe/404
+ErrorDocument 500 https://clinicademaria.pe/error
 
 </IfModule>
