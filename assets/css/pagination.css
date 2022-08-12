@@ -1,0 +1,34 @@
+.diegozn {
+    width: 500px;
+    margin: 0 auto;
+}
+
+diego-list {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+div.diego-list a {
+    background: none;
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+div.diego-list a.currenta {
+    background: #fff;
+    color: #222;
+}
+
+
+.tab-contenta {
+    display: none;
+    background: #fff;
+    padding: 15px;
+}
+
+.tab-contenta.currenta {
+    display: flex;
+}
